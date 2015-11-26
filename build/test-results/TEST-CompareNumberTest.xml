@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CompareNumberTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-11-25T15:20:05" hostname="localhost" time="0.014">
+  <properties/>
+  <testcase name="should_get_0A0B_when_all_bits_not_equals" classname="CompareNumberTest" time="0.009"/>
+  <testcase name="should_get_0A4B_when_all_bits_are_same_but_position_are_different" classname="CompareNumberTest" time="0.003"/>
+  <testcase name="should_get_2A2B_when_two_bits_both__match_and_two_bits_equals_but_position_differs" classname="CompareNumberTest" time="0.0"/>
+  <testcase name="should_get_4A0B_when_two_numbers_are_same" classname="CompareNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

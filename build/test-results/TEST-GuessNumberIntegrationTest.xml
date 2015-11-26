@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuessNumberIntegrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-11-25T15:20:05" hostname="localhost" time="0.707">
+  <properties/>
+  <testcase name="should_get_2A2B_when_two_bits_both__match_and_two_bits_equals_but_position_differs" classname="GuessNumberIntegrationTest" time="0.705"/>
+  <testcase name="should_get_4A0B_when_guessNumber_is_the_same_as_generateNumber" classname="GuessNumberIntegrationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

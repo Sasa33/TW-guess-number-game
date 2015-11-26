@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GenerateNumberTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-11-25T15:20:05" hostname="localhost" time="0.02">
+  <properties/>
+  <testcase name="should_continuously_generate_at_least_100_different_numbers" classname="GenerateNumberTest" time="0.01"/>
+  <testcase name="should_generate_4_unique_characters_in_each_bit" classname="GenerateNumberTest" time="0.003"/>
+  <testcase name="should_generate_4_digits_number" classname="GenerateNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
